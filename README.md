@@ -6,7 +6,7 @@
 
 ## Medium Article
 
-This project is accompanied by a detailed Medium article titled "Basic Android Compose - User Rating Bar." You can read the article [here]().
+This project is accompanied by a detailed Medium article titled "Basic Android Compose - User Rating Bar." You can read the article [here](https://medium.com/@kenruizinoue/basic-android-compose-user-rating-bar-6e0990b017f9).
 
 ## Overview
 
